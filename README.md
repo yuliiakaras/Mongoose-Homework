@@ -33,11 +33,11 @@
 - Using [Postman](https://www.getpostman.com/), and api endpoint **/users (GET)**, I want to have the possibility
   to get all users with the ability to sort them by age (query parameters). Return only user id, fullName, email and age fields.
 
-- Using [Postman](https://www.getpostman.com/), and api endpoint **/users (POST)**, I want to create new user document,
+- Using [Postman](https://www.getpostman.com/), and api endpoint **/users (POST)**, I want to create new user document, 
   so that I can have the possibility to find it in mongodb users collection.
 
 - Using [Postman](https://www.getpostman.com/), and api endpoint **/users/:userId (PUT)**, I want to have the possibility
-  to edit user document fields (firstName, lastName, age, don't forget to regenerate fullName).
+  to edit user document fields (firstName, lastName, age, don't forget to regenerate fullName). 
 
 - Using [Postman](https://www.getpostman.com/), and api endpoint **/users/:userId (GET)**, I want to have possibility
   to get information about any user by passing specific user id as an api parameter.
